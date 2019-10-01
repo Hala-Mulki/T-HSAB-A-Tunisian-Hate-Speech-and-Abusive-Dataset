@@ -4,7 +4,7 @@
 # T-HSAB Dataset: Context and Topics
 The Tunisian Hate Speech and ABusive (T-HSAB) is the first Arabic Tunisian Hate Speech and Abusive Language Dataset proposed in the The 7th International Conference on Arabic Language Processing October 16-17, 2019 (Nancy, France).
 
-Since the \Jasmine Revolution" at 2011, Tunisia has entered a new era of ultimate freedom of expression with a full access into social media. This has been associated with an unrestricted spread of toxic contents such as Abusive and Hate speech.
+Since the "Jasmine Revolution" at 2011, Tunisia has entered a new era of ultimate freedom of expression with a full access into social media. This has been associated with an unrestricted spread of toxic contents such as Abusive and Hate speech.
 T-HSAB combines 6,024 Tunisian comments labeled as normal, abusive or hate. The collected tweets were posted between October 2018 and March 2019.
 
 # Data Collection & Resources
