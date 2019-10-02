@@ -41,7 +41,9 @@ Best performance by Naive Bayes with an F-measure of 92.3%
 Best performance by Naive Bayes with an F-measure of 83.6%
 
 # Paper Citation
-@inproceedings{mulki2019hsab, title={T-HSAB: A Tunisian Hate Speech and Abusive Dataset},
+@inproceedings{THSAB2019, 
+
+title={T-HSAB: A Tunisian Hate Speech and Abusive Dataset},
 
 author={Haddad, Hatem and Mulki, Hala and Oueslati, Asma},
 
