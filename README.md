@@ -41,14 +41,4 @@ Best performance by Naive Bayes with an F-measure of 92.3%
 Best performance by Naive Bayes with an F-measure of 83.6%
 
 # Paper Citation
-@inproceedings{THSAB2019, 
-
-title={T-HSAB: A Tunisian Hate Speech and Abusive Dataset},
-
-author={Haddad, Hatem and Mulki, Hala and Oueslati, Asma},
-
-booktitle={Arabic Language Processing: From Theory to Practice},
-
-year={2019}
-
-}
+Haddad H., Mulki H., Oueslati A. (2019) T-HSAB: A Tunisian Hate Speech and Abusive Dataset. In: Smaïli K. (eds) Arabic Language Processing: From Theory to Practice. ICALP 2019. Communications in Computer and Information Science, vol 1108. Springer, Cham
